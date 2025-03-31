@@ -11,7 +11,7 @@ LinkedIn: https://www.linkedin.com/in/kylie-shapiro-247573198/
 
 ### Contact Info
 Email: kdshapir@asu.edu\
-Phone: (913)-953-7792
+Behance: https://www.behance.net/kylieshapiro
 <!--
 **kdshapiro10/kdshapiro10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

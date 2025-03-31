@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am a Front-End Web Developer that provides inclusivity and equitability within digital platforms and experiences.</p>
+<p align="left">I am a Front-End Web Developer that provides inclusivity and equitability within digital platforms and experiences. I have 3+ years developing in Visual Studio Code using HTML5, CSS3, and have been working on developing my skills with JavaScript. Alongside my experience with Front-End Web Dev, I'm in the process of getting a Certification in User Experience Design.</p>
 
 ###
 

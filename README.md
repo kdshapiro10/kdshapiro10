@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am a Front-End Web Developer that provides inclusivity and equitability within digital platforms and experiences. I have 3+ years in Visual Studio Code, using HTML5 & CSS3. Recently I have been getting more comfortable developing using JavaScript. Alongside Front-End Web Development, I'm in the process of getting my User Experience Design Certification.</p>
+<p align="left">I am a Front-End Web Developer that provides inclusivity and equitability within digital platforms and experiences.</p>
 
 ###
 
@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
 </div>
 
 ###
